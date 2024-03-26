@@ -1,0 +1,285 @@
+[
+  {
+    "id": 1,
+    "nom": "Diallo",
+    "prenom": "Fatou",
+    "telNumber": "+237 6 78 90 12 34",
+    "email": "fatou.diallo@gmail.com",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Salut, ça va?",
+        "heure": "10:15",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Oui, très bien. Et toi?",
+        "heure": "10:17",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Nguyen",
+    "prenom": "Minh",
+    "telNumber": "+237 6 76 54 32 10",
+    "email": "minh.nguyen@yahoo.fr",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 3,
+    "nom": "Mbappe",
+    "prenom": "Kylian",
+    "telNumber": "+33 6 12 34 56 78",
+    "email": "kylian.mbappe@psg.fr",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Bonjour, je suis Kylian Mbappe, le célèbre footballeur.",
+        "heure": "11:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Je plaisante, c'est juste un exemple.",
+        "heure": "11:01",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Kouamé",
+    "prenom": "Jean",
+    "telNumber": "+237 6 98 76 54 32",
+    "email": "jean.kouame@hotmail.com",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Salut, c'est Jean. Tu veux venir au cinéma ce soir?",
+        "heure": "15:30",
+        "date": "08/02/2024"
+      },
+      {
+        "texte": "Oui, pourquoi pas. Quel film tu veux voir?",
+        "heure": "15:32",
+        "date": "08/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Smith",
+    "prenom": "Alice",
+    "telNumber": "+44 7 89 01 23 45",
+    "email": "alice.smith@outlook.com",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 6,
+    "nom": "Moussa",
+    "prenom": "",
+    "telNumber": "+237 6 12 34 56 78",
+    "email": "",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 7,
+    "nom": "Garcia",
+    "prenom": "Luis",
+    "telNumber": "+34 6 54 32 10 98",
+    "email": "luis.garcia@gmail.com",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Hola, soy Luis. Me gustaría practicar mi francés contigo.",
+        "heure": "16:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Bonjour, je suis Luis. J'aimerais pratiquer mon français avec toi.",
+        "heure": "16:01",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nom": "Ndiaye",
+    "prenom": "Aminata",
+    "telNumber": "+221 7 65 43 21 09",
+    "email": "aminata.ndiaye@senegal.sn",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Bonjour, je m'appelle Aminata. Je suis étudiante en informatique à Dakar.",
+        "heure": "14:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Je cherche un stage dans une entreprise de développement web. Est-ce que tu connais quelqu'un qui pourrait m'aider?",
+        "heure": "14:05",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nom": "Kouamé",
+    "prenom": "Jean",
+    "telNumber": "+237 6 98 76 54 32",
+    "email": "jean.kouame@hotmail.com",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Salut, c'est Jean. Tu veux venir au cinéma ce soir?",
+        "heure": "15:30",
+        "date": "08/02/2024"
+      },
+      {
+        "texte": "Oui, pourquoi pas. Quel film tu veux voir?",
+        "heure": "15:32",
+        "date": "08/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nom": "Smith",
+    "prenom": "Alice",
+    "telNumber": "+44 7 89 01 23 45",
+    "email": "alice.smith@outlook.com",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 11,
+    "nom": "Moussa",
+    "prenom": "",
+    "telNumber": "+237 6 12 34 56 78",
+    "email": "",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 12,
+    "nom": "Garcia",
+    "prenom": "Luis",
+    "telNumber": "+34 6 54 32 10 98",
+    "email": "luis.garcia@gmail.com",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Hola, soy Luis. Me gustaría practicar mi francés contigo.",
+        "heure": "16:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Bonjour, je suis Luis. J'aimerais pratiquer mon français avec toi.",
+        "heure": "16:01",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nom": "Ndiaye",
+    "prenom": "Aminata",
+    "telNumber": "+221 7 65 43 21 09",
+    "email": "aminata.ndiaye@senegal.sn",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Bonjour, je m'appelle Aminata. Je suis étudiante en informatique à Dakar.",
+        "heure": "14:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Je cherche un stage dans une entreprise de développement web. Est-ce que tu connais quelqu'un qui pourrait m'aider?",
+        "heure": "14:05",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nom": "Oliveira",
+    "prenom": "Pedro",
+    "telNumber": "+55 11 98 76 54 32",
+    "email": "pedro.oliveira@brasil.br",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Oi, tudo bem? Eu sou Pedro, um amigo do Luis.",
+        "heure": "17:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Salut, ça va? Je suis Pedro, un ami de Luis.",
+        "heure": "17:01",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nom": "Johnson",
+    "prenom": "Emma",
+    "telNumber": "+1 202 555 0123",
+    "email": "emma.johnson@usa.com",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 16,
+    "nom": "Ahmed",
+    "prenom": "",
+    "telNumber": "+971 50 123 4567",
+    "email": "",
+    "profileImage": "",
+    "messages": []
+  },
+  {
+    "id": 17,
+    "nom": "Wang",
+    "prenom": "Li",
+    "telNumber": "+86 10 1234 5678",
+    "email": "li.wang@china.cn",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "你好，我叫王丽，我是一名中文老师。",
+        "heure": "18:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Bonjour, je m'appelle Wang Li, je suis professeur de chinois.",
+        "heure": "18:01",
+        "date": "09/02/2024"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nom": "Khan",
+    "prenom": "Ali",
+    "telNumber": "+92 300 1234567",
+    "email": "ali.khan@pakistan.pk",
+    "profileImage": "",
+    "messages": [
+      {
+        "texte": "Hello, I am Ali Khan, a software engineer from Pakistan.",
+        "heure": "19:00",
+        "date": "09/02/2024"
+      },
+      {
+        "texte": "Bonjour, je suis Ali Khan, un ingénieur logiciel du Pakistan.",
+        "heure": "19:01",
+        "date": "09/02/2024"
+      }
+    ]
+  }
+]
